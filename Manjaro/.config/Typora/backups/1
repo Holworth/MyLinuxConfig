@@ -1,0 +1,41 @@
+---
+
+**如何在Linux下安装GFLAGS:**
+    https://www.cnblogs.com/freeweb/p/10696872.html
+
+1. 先下载源文件：``git clone -b v2.2.2 https://github/gflags/gflags``
+
+2. 进入源文件所在目录下并创建``build``文件夹
+
+   ```bash
+   cd gflags
+   mkdir build && cd build
+   ```
+
+3. 执行cmake指令：
+
+   ```bash
+   cmake -DBUILD_SHARED_LIBS=ON -DBUILD_STATIC_LIBS=ON -DINSTALL_HEADERS=ON -DINSTALL_SHARED_LIBS=ON -DINSTALL_STATIC_LIBS=ON ..
+   ```
+
+4. 执行make指令：
+
+   ```bash
+   make -j4
+   make install
+   ```
+
+完成上述步骤后，动态链接库``libgflags``会被安装在``/usr/local/lib``文件夹下，通过命令``ls /usr/local/lib/libgflags* -l``可以检测是否正常安装。
+
+**动态链接库的加入：** ``export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/usr/local/lib``
+
+---
+
+**Typora修改字体和主题**
+
+参考网站如下：https://www.cnblogs.com/zhicungaoyuan-mingzhi/p/12861220.html
+
+1. 先通过：文件-> 偏好设置-> 外观 选项找到获取主题选项，然后点击。
+2. 点击之后会打开一个github网页，通过该网页可以选择自己喜欢的主题，点击喜欢的主题之后会进入github的下载页面。
+3. 下载
+

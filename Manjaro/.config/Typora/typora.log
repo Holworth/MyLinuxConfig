@@ -1,0 +1,242 @@
+INFO 2020/8/29 下午6:16:59  luanchFromDiffVersion, pre version is undefined
+INFO 2020/8/29 下午6:16:59  overwriteThemeFolder
+INFO 2020/8/29 下午6:16:59  ------------------start------------------
+INFO 2020/8/29 下午6:16:59  typora version: 0.9.92
+DEBUG 2020/8/29 下午6:16:59  [ '/usr/share/typora/Typora' ]
+INFO 2020/8/29 下午6:16:59  [Raven] instanceKey = b534c357-09d8-4978-ba13-c5594a2c8c7e
+DEBUG 2020/8/29 下午6:16:59  app.openFile
+INFO 2020/8/29 下午6:16:59  [focus] 1
+INFO 2020/8/29 下午6:16:59  [Raven] userId = a5c90c46-f3c8-41b2-8304-6f88c84207f2
+INFO 2020/8/29 下午6:17:11  [blur] 1
+INFO 2020/8/29 下午6:17:14  [focus] 1
+INFO 2020/8/29 下午6:17:24  ----------------before-quit-----------------
+INFO 2020/8/29 下午6:17:24  ------------------will-quit------------------
+INFO 2020/8/29 下午6:28:12  ------------------start------------------
+INFO 2020/8/29 下午6:28:12  typora version: 0.9.92
+DEBUG 2020/8/29 下午6:28:12  [ '/usr/share/typora/Typora' ]
+INFO 2020/8/29 下午6:28:12  [Raven] instanceKey = cdd4f4b6-24e2-4d39-bbfc-5b49a4585138
+DEBUG 2020/8/29 下午6:28:12  app.openFile
+INFO 2020/8/29 下午6:28:12  [focus] 1
+INFO 2020/8/29 下午6:28:12  [Raven] userId = a5c90c46-f3c8-41b2-8304-6f88c84207f2
+INFO 2020/8/29 下午6:28:22  window.File && (function(){		File.setTheme();	})();
+INFO 2020/8/29 下午6:29:18  [blur] 1
+INFO 2020/8/29 下午6:29:21  [focus] 1
+INFO 2020/8/29 下午6:29:21  addRecentDocument
+INFO 2020/8/29 下午6:29:21  ----------------before-quit-----------------
+INFO 2020/8/29 下午6:29:21  ------------------will-quit------------------
+INFO 2020/8/29 下午6:29:25  ------------------start------------------
+INFO 2020/8/29 下午6:29:25  typora version: 0.9.92
+DEBUG 2020/8/29 下午6:29:25  [ '/usr/share/typora/Typora' ]
+INFO 2020/8/29 下午6:29:25  [Raven] instanceKey = e1aaa5bd-f9f7-4b3e-8cce-94ed41387712
+DEBUG 2020/8/29 下午6:29:25  app.openFile
+INFO 2020/8/29 下午6:29:25  [focus] 1
+INFO 2020/8/29 下午6:29:25  [Raven] userId = a5c90c46-f3c8-41b2-8304-6f88c84207f2
+DEBUG 2020/8/29 下午6:29:30  app.openFile
+INFO 2020/8/29 下午6:29:30  switchDocument
+INFO 2020/8/29 下午6:29:30  addRecentDocument
+INFO 2020/8/29 下午6:29:41  document.body.parentElement.style.fontSize = '14px'
+INFO 2020/8/29 下午6:29:42  document.body.parentElement.style.fontSize = '15px'
+INFO 2020/8/29 下午6:29:42  document.body.parentElement.style.fontSize = '16px'
+INFO 2020/8/29 下午6:29:43  document.body.parentElement.style.fontSize = '17px'
+INFO 2020/8/29 下午6:29:43  document.body.parentElement.style.fontSize = '18px'
+INFO 2020/8/29 下午6:29:43  document.body.parentElement.style.fontSize = '19px'
+INFO 2020/8/29 下午6:29:43  document.body.parentElement.style.fontSize = '20px'
+INFO 2020/8/29 下午6:29:45  document.body.parentElement.style.fontSize = '20px'
+INFO 2020/8/29 下午6:30:04  ----------------before-quit-----------------
+INFO 2020/8/29 下午6:30:04  ------------------will-quit------------------
+INFO 2020/9/28 下午8:50:52  ------------------start------------------
+INFO 2020/9/28 下午8:50:53  typora version: 0.9.92
+DEBUG 2020/9/28 下午8:50:53  [ '/usr/share/typora/Typora', '20200928.md' ]
+DEBUG 2020/9/28 下午8:50:53  app.openFile
+INFO 2020/9/28 下午8:50:53  addRecentDocument
+INFO 2020/9/28 下午8:50:53  [Raven] instanceKey = 3d748ca2-2e99-452f-b783-9b04a45043b8
+INFO 2020/9/28 下午8:50:53  [Raven] userId = a5c90c46-f3c8-41b2-8304-6f88c84207f2
+INFO 2020/9/28 下午8:50:54  [focus] 1
+INFO 2020/9/28 下午8:51:31  [blur] 1
+INFO 2020/9/28 下午8:51:37  [focus] 1
+INFO 2020/9/28 下午8:51:39  [blur] 1
+INFO 2020/9/28 下午8:51:47  [focus] 1
+INFO 2020/9/28 下午8:52:02  [blur] 1
+INFO 2020/9/28 下午8:52:06  [focus] 1
+INFO 2020/9/28 下午8:52:08  [blur] 1
+INFO 2020/9/28 下午8:52:19  [focus] 1
+INFO 2020/9/28 下午8:53:57  [blur] 1
+INFO 2020/9/28 下午8:54:03  [focus] 1
+INFO 2020/9/28 下午8:55:21  [blur] 1
+INFO 2020/9/28 下午8:55:25  [focus] 1
+INFO 2020/9/28 下午8:55:50  [blur] 1
+INFO 2020/9/28 下午8:56:11  [focus] 1
+INFO 2020/9/28 下午8:56:45  ----------------before-quit-----------------
+INFO 2020/9/28 下午8:56:45  ------------------will-quit------------------
+INFO 2020/9/29 上午10:19:11  ------------------start------------------
+INFO 2020/9/29 上午10:19:12  typora version: 0.9.92
+DEBUG 2020/9/29 上午10:19:12  [ '/usr/share/typora/Typora' ]
+INFO 2020/9/29 上午10:19:12  [Raven] instanceKey = cf929fa3-f343-4a83-9fde-ac40574d69b4
+INFO 2020/9/29 上午10:19:12  [Raven] userId = a5c90c46-f3c8-41b2-8304-6f88c84207f2
+DEBUG 2020/9/29 上午10:19:12  app.openFile
+INFO 2020/9/29 上午10:19:13  [focus] 1
+INFO 2020/9/29 上午10:19:30  [blur] 1
+INFO 2020/9/29 上午10:20:31  [focus] 1
+INFO 2020/9/29 上午10:20:34  [blur] 1
+INFO 2020/9/29 上午10:20:43  [focus] 1
+INFO 2020/9/29 上午10:20:44  [blur] 1
+INFO 2020/9/29 上午10:21:00  [focus] 1
+INFO 2020/9/29 上午10:21:02  [blur] 1
+INFO 2020/9/29 上午10:22:13  [focus] 1
+INFO 2020/9/29 上午10:22:14  [blur] 1
+INFO 2020/9/29 上午10:22:19  [focus] 1
+INFO 2020/9/29 上午10:22:23  [blur] 1
+INFO 2020/9/29 上午10:22:25  [focus] 1
+INFO 2020/9/29 上午10:22:25  [blur] 1
+INFO 2020/9/29 上午10:22:36  [focus] 1
+INFO 2020/9/29 上午10:22:38  ----------------before-quit-----------------
+INFO 2020/9/29 上午10:22:38  ------------------will-quit------------------
+INFO 2020/9/29 上午10:22:41  ------------------start------------------
+INFO 2020/9/29 上午10:22:41  typora version: 0.9.92
+DEBUG 2020/9/29 上午10:22:41  [ '/usr/share/typora/Typora' ]
+INFO 2020/9/29 上午10:22:41  [Raven] instanceKey = 8febd747-80ba-4f7c-bb7e-5a4f5f332a41
+DEBUG 2020/9/29 上午10:22:41  app.openFile
+INFO 2020/9/29 上午10:22:41  [focus] 1
+INFO 2020/9/29 上午10:22:41  [Raven] userId = a5c90c46-f3c8-41b2-8304-6f88c84207f2
+INFO 2020/9/29 上午10:22:44  window.File && (function(){		File.setTheme();	})();
+INFO 2020/9/29 上午10:22:48  [blur] 1
+INFO 2020/9/29 上午10:24:00  [focus] 1
+INFO 2020/9/29 上午10:24:04  [blur] 1
+INFO 2020/9/29 上午10:24:05  [focus] 1
+INFO 2020/9/29 上午10:24:11  [blur] 1
+INFO 2020/9/29 上午10:24:28  [focus] 1
+INFO 2020/9/29 上午10:24:28  [blur] 1
+INFO 2020/9/29 上午10:24:31  [focus] 1
+INFO 2020/9/29 上午10:24:31  [blur] 1
+INFO 2020/9/29 上午10:24:32  ----------------before-quit-----------------
+INFO 2020/9/29 上午10:24:32  ----------------before-quit-----------------
+INFO 2020/9/29 上午10:24:32  ------------------will-quit------------------
+INFO 2020/9/29 上午10:26:58  ------------------start------------------
+INFO 2020/9/29 上午10:26:59  typora version: 0.9.92
+DEBUG 2020/9/29 上午10:26:59  [ '/usr/share/typora/Typora', '20200928.md' ]
+DEBUG 2020/9/29 上午10:26:59  app.openFile
+INFO 2020/9/29 上午10:26:59  addRecentDocument
+INFO 2020/9/29 上午10:26:59  [Raven] instanceKey = c465ea84-d920-4327-a703-eab8f8c547f0
+INFO 2020/9/29 上午10:26:59  [focus] 1
+INFO 2020/9/29 上午10:26:59  [Raven] userId = a5c90c46-f3c8-41b2-8304-6f88c84207f2
+INFO 2020/9/29 上午10:27:19  [blur] 1
+INFO 2020/9/29 上午10:27:57  [focus] 1
+INFO 2020/9/29 上午10:28:11  document.body.parentElement.style.fontSize = '21px'
+INFO 2020/9/29 上午10:28:14  document.body.parentElement.style.fontSize = '21px'
+INFO 2020/9/29 上午10:28:38  ----------------before-quit-----------------
+INFO 2020/9/29 上午10:28:38  ------------------will-quit------------------
+INFO 2020/9/29 上午10:28:45  ------------------start------------------
+INFO 2020/9/29 上午10:28:45  typora version: 0.9.92
+DEBUG 2020/9/29 上午10:28:45  [ '/usr/share/typora/Typora', '20200928.md' ]
+DEBUG 2020/9/29 上午10:28:45  app.openFile
+INFO 2020/9/29 上午10:28:45  addRecentDocument
+INFO 2020/9/29 上午10:28:45  [Raven] instanceKey = 9c7100ca-50de-441d-9788-71330d3a6f2d
+INFO 2020/9/29 上午10:28:45  [focus] 1
+INFO 2020/9/29 上午10:28:45  [Raven] userId = a5c90c46-f3c8-41b2-8304-6f88c84207f2
+INFO 2020/9/29 上午10:29:14  document.body.parentElement.style.fontSize = '20px'
+INFO 2020/9/29 上午10:29:18  document.body.parentElement.style.fontSize = '20px'
+INFO 2020/9/29 上午10:29:18  File.setCanCollapsePinnedOutline(true);
+INFO 2020/9/29 上午10:30:37  [blur] 1
+INFO 2020/9/29 上午10:30:40  [focus] 1
+INFO 2020/9/29 上午10:30:41  [blur] 1
+INFO 2020/9/29 上午10:30:46  [focus] 1
+INFO 2020/9/29 上午10:31:11  [blur] 1
+INFO 2020/9/29 上午10:31:13  [focus] 1
+INFO 2020/9/29 上午10:32:39  [blur] 1
+INFO 2020/9/29 上午10:32:42  [focus] 1
+INFO 2020/9/29 上午10:34:52  ----------------before-quit-----------------
+INFO 2020/9/29 上午10:34:52  ------------------will-quit------------------
+INFO 2020/9/29 上午10:34:55  ------------------start------------------
+INFO 2020/9/29 上午10:34:55  typora version: 0.9.92
+DEBUG 2020/9/29 上午10:34:55  [ '/usr/share/typora/Typora', '20200928.md' ]
+DEBUG 2020/9/29 上午10:34:55  app.openFile
+INFO 2020/9/29 上午10:34:55  addRecentDocument
+INFO 2020/9/29 上午10:34:55  [Raven] instanceKey = 3af06960-d43e-4c61-aefa-57758757b5ed
+INFO 2020/9/29 上午10:34:55  [focus] 1
+INFO 2020/9/29 上午10:34:55  [Raven] userId = a5c90c46-f3c8-41b2-8304-6f88c84207f2
+INFO 2020/9/29 上午10:35:09  document.body.parentElement.style.fontSize = ''
+INFO 2020/9/29 上午10:35:12  window.File && (function(){document.body.classList.add("show-footer"),document.body.classList.remove("hide-footer")})();
+INFO 2020/9/29 上午10:35:54  [blur] 1
+INFO 2020/9/29 上午10:36:00  ----------------before-quit-----------------
+INFO 2020/9/29 上午10:36:00  ----------------before-quit-----------------
+INFO 2020/9/29 上午10:36:00  ------------------will-quit------------------
+INFO 2020/9/29 上午10:39:12  ------------------start------------------
+INFO 2020/9/29 上午10:39:12  typora version: 0.9.92
+DEBUG 2020/9/29 上午10:39:12  [ '/usr/share/typora/Typora', 'Week3/20200928.md' ]
+DEBUG 2020/9/29 上午10:39:12  app.openFile
+INFO 2020/9/29 上午10:39:12  addRecentDocument
+INFO 2020/9/29 上午10:39:12  [Raven] instanceKey = e08dcf58-c634-41e1-8093-d13d65d02b33
+INFO 2020/9/29 上午10:39:12  [focus] 1
+INFO 2020/9/29 上午10:39:12  [Raven] userId = a5c90c46-f3c8-41b2-8304-6f88c84207f2
+INFO 2020/9/29 上午10:39:58  window.File && (function() {		ClientCommand.save();	})();
+INFO 2020/9/29 上午10:40:18  window.File && (function(){File.option.enableAutoSave = true;})();
+INFO 2020/9/29 上午10:40:26  window.File && (function() {$("[data-group='dev-tool']").show();})();
+INFO 2020/9/29 上午10:40:27  window.File && (function() {$("[data-group='dev-tool']").hide();})();
+INFO 2020/9/29 上午10:40:37  [blur] 1
+INFO 2020/9/29 上午10:40:40  [focus] 1
+INFO 2020/9/29 上午10:40:52  ----------------before-quit-----------------
+INFO 2020/9/29 上午10:41:37  ------------------start------------------
+INFO 2020/9/29 上午10:41:37  typora version: 0.9.92
+DEBUG 2020/9/29 上午10:41:37  [ '/usr/share/typora/Typora', 'Week3/20200928.md' ]
+DEBUG 2020/9/29 上午10:41:37  app.openFile
+INFO 2020/9/29 上午10:41:37  addRecentDocument
+INFO 2020/9/29 上午10:41:37  [Raven] instanceKey = 94d4da5f-2759-4f25-98a0-22900b937638
+INFO 2020/9/29 上午10:41:37  [focus] 1
+INFO 2020/9/29 上午10:41:37  [Raven] userId = a5c90c46-f3c8-41b2-8304-6f88c84207f2
+INFO 2020/9/29 上午10:43:45  [blur] 1
+INFO 2020/9/29 上午10:43:46  ----------------before-quit-----------------
+INFO 2020/9/29 上午10:43:46  ----------------before-quit-----------------
+INFO 2020/9/29 上午10:43:46  ------------------will-quit------------------
+INFO 2020/9/29 上午10:55:39  ------------------start------------------
+INFO 2020/9/29 上午10:55:39  typora version: 0.9.92
+DEBUG 2020/9/29 上午10:55:39  [
+  '/usr/share/typora/Typora',
+  '/home/kqh/github/kqh/Notes/Trifles/Week3/20200928.md'
+]
+DEBUG 2020/9/29 上午10:55:39  app.openFile
+INFO 2020/9/29 上午10:55:39  addRecentDocument
+INFO 2020/9/29 上午10:55:39  [Raven] instanceKey = 354e3089-af1d-4749-8277-cb690f9526c7
+INFO 2020/9/29 上午10:55:39  [focus] 1
+INFO 2020/9/29 上午10:55:39  [Raven] userId = a5c90c46-f3c8-41b2-8304-6f88c84207f2
+INFO 2020/9/29 上午10:55:48  [blur] 1
+INFO 2020/9/29 上午10:55:55  [focus] 1
+INFO 2020/9/29 上午10:55:57  [blur] 1
+INFO 2020/9/29 上午10:56:20  [focus] 1
+INFO 2020/9/29 上午10:56:21  [blur] 1
+INFO 2020/9/29 上午10:56:28  ----------------before-quit-----------------
+INFO 2020/9/29 上午10:56:28  ----------------before-quit-----------------
+INFO 2020/9/29 上午10:56:28  ------------------will-quit------------------
+INFO 2020/9/29 下午1:25:08  ------------------start------------------
+INFO 2020/9/29 下午1:25:08  typora version: 0.9.92
+DEBUG 2020/9/29 下午1:25:09  [ '/usr/share/typora/Typora', 'Week3/20200928.md' ]
+DEBUG 2020/9/29 下午1:25:09  app.openFile
+INFO 2020/9/29 下午1:25:09  addRecentDocument
+INFO 2020/9/29 下午1:25:09  [Raven] instanceKey = b2105e1f-dfbe-422a-b5ea-4baa92026033
+INFO 2020/9/29 下午1:25:09  [Raven] userId = a5c90c46-f3c8-41b2-8304-6f88c84207f2
+INFO 2020/9/29 下午1:25:10  [focus] 1
+INFO 2020/9/29 下午1:25:12  [blur] 1
+INFO 2020/9/29 下午1:25:12  [focus] 1
+INFO 2020/9/29 下午1:25:13  [blur] 1
+INFO 2020/9/29 下午1:25:14  [focus] 1
+INFO 2020/9/29 下午1:25:15  [blur] 1
+INFO 2020/9/29 下午1:25:17  [focus] 1
+INFO 2020/9/29 下午1:25:18  [blur] 1
+INFO 2020/9/29 下午1:25:20  [focus] 1
+INFO 2020/9/29 下午1:26:39  [blur] 1
+INFO 2020/9/29 下午1:27:21  [focus] 1
+INFO 2020/9/29 下午1:27:25  [blur] 1
+INFO 2020/9/29 下午1:27:27  [focus] 1
+INFO 2020/9/29 下午1:29:18  [blur] 1
+INFO 2020/9/29 下午1:29:40  [focus] 1
+INFO 2020/9/29 下午1:29:54  [blur] 1
+INFO 2020/9/29 下午1:30:01  [focus] 1
+INFO 2020/9/29 下午1:30:13  [blur] 1
+INFO 2020/9/29 下午1:30:19  [focus] 1
+INFO 2020/9/29 下午1:30:27  [blur] 1
+INFO 2020/9/29 下午1:30:29  [focus] 1
+INFO 2020/9/29 下午1:31:15  [blur] 1
+INFO 2020/9/29 下午1:31:25  [focus] 1
+INFO 2020/9/29 下午1:38:10  [blur] 1
+INFO 2020/9/29 下午1:38:19  ----------------before-quit-----------------
+INFO 2020/9/29 下午1:38:19  ----------------before-quit-----------------
+INFO 2020/9/29 下午1:38:19  ------------------will-quit------------------
