@@ -44,6 +44,11 @@ Plug 'nathanaelkane/vim-indent-guides'
 "latex plugins
 Plug 'lervag/vimtex'
 
+"snippet plugins
+Plug 'sirver/ultisnips'
+Plug 'honza/vim-snippets'
+
+
 call plug#end()
 
 " color scheme
@@ -284,3 +289,12 @@ set conceallevel=2
 let g:tex_conceal='abdgm'
 "hi Conceal guibg=Black guifg=White
 hi clear Conceal
+"******************************************************
+"*			                                          * 
+"*                   Snippets  CONFIGURAITION  	      * 
+"*			 		                                  * 
+"******************************************************
+let g:UltiSnipsExpandTrigger='<tab>'
+let g:UltiSnipsJumpForwardTrigger='<tab>'
+"shift + tab, not s+tab
+let g:UltiSnipsJumpBackwardTrigger='<s-tab>'
