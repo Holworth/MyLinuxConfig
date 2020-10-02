@@ -280,5 +280,7 @@ let g:indent_guides_color_change_percent = 1
 let g:tex_flavor='latex'
 let g:vimtex_view_method='zathura'
 let g:vimtex_quickfix_mode=0
-"set conceallevel=1
-let g:tex_conceal='abdmg'
+set conceallevel=2
+let g:tex_conceal='abdgm'
+"hi Conceal guibg=Black guifg=White
+hi clear Conceal
