@@ -41,6 +41,9 @@ Plug 'w0rp/ale'
 "indent show
 Plug 'nathanaelkane/vim-indent-guides'
 
+"latex plugins
+Plug 'lervag/vimtex'
+
 call plug#end()
 
 " color scheme
@@ -267,3 +270,15 @@ let g:indent_guides_guide_size = 1
 let g:indent_guides_start_level = 1
 let g:indent_guides_enable_on_vim_startup = 1
 let g:indent_guides_color_change_percent = 1
+
+
+"******************************************************
+"*			                                          * 
+"*                   vimtex  CONFIGURAITION  	      * 
+"*			 		                                  * 
+"******************************************************
+let g:tex_flavor='latex'
+let g:vimtex_view_method='zathura'
+let g:vimtex_quickfix_mode=0
+"set conceallevel=1
+let g:tex_conceal='abdmg'
